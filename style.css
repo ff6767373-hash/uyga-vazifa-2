@@ -1,0 +1,174 @@
+header{
+    background-color: #F3D7B7; 
+    display: flex;
+    justify-content: space-between; 
+    width: auto;
+    height: 71px;
+    align-items: center;
+    
+}
+
+
+.div{
+    display: flex;
+    gap: 50px;
+    font-size: 12px;
+    padding-right: 60px;
+    align-items: center;
+}
+
+.img{
+    width: 227px;
+    height: 24px;
+    margin-top: 15px;
+    margin-left: 50px;
+}
+
+main{
+    background-color: #F3D7B7; 
+    width: auto; 
+    height: 730px;
+}
+
+.bbb{
+    font-size: 64px;
+}
+
+.ppp{
+    font-size: 16px;
+    padding-top: 30px;
+}
+
+.img2{
+    width: 710px;
+    height: 694px;
+    position: absolute;
+    left: 821px;
+    top: 160px;
+    z-index: 0;
+}
+
+.img1{
+    width: 160px;
+    height: 160px;
+    position: absolute;
+    top: 100px;
+    right: 635px;
+    z-index: 2;
+}
+
+.div2{
+    width: 464px;
+    height: 367px;
+    position: absolute;
+    top: 180px;
+    left: 50px;
+}
+
+
+
+.create-btn {
+    background-color: #0A775F;
+    color: #ffff;
+    border: none;
+    border-radius: 50px;
+   padding: 16px 24px
+
+}
+
+
+
+section{
+    width: auto;
+    height: 1798px;
+}
+
+.img5{
+    width: 451.25px;
+    height: 375px;
+}
+
+
+.bbb2{
+    font-size: 50px;
+    padding-top: 100px;
+    padding-left: 543.51px;
+}
+b{
+    font-size: 48px;
+}
+
+p{
+    font-size: 22px;
+}
+
+.ppp9{
+    font-size: 48px;
+    
+    
+}
+
+
+
+.div3{
+   
+   display: flex;
+    justify-content: space-around;  
+    align-items: center;
+    
+
+}
+
+.div4{
+    display: flex;
+    justify-content: space-around;  
+    align-items: center;
+    
+
+}
+
+.div5{
+    display: flex;
+    justify-content: space-around;  
+    align-items: center;
+    
+
+}
+
+.div6{
+    display: flex;
+    justify-content: space-around;  
+    align-items: center;
+    
+
+}
+footer{
+    display: flex;
+    gap: 20px;
+    width: auto;
+    height: 160px;
+    background-color: #F3D7B7;
+    justify-content: space-evenly;
+   
+    
+}
+
+.img9{
+    width: 30px;
+    height: 30px;
+    margin-top: 60px;
+}
+
+.img0{
+    margin-top: 60px;
+       width: 245px;
+    height: 30px;
+    margin-left: 50px;
+}
+
+.abd{
+    display: flex;
+    padding-left: 100px;
+    gap: 30px;
+    padding-top: 45px;
+}
